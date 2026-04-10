@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+    {
+    "nombreapp": "streamchess",
+    "descripcion": "app de streamers de ajedres",
+    "icono": "https://drive.google.com/file/d/11MJSlNOIbkgxvYy2ByRxcHunlgqd_2t6/view?usp=sharing",
+    "grupo": "viernes",
+    "fecha": "2026-10-04",
+    "id": 1,
+    "integrantes": [
+      "jaime antonio poveda",
+      "kevin bernal",
+      "tomas ortiz"
+    ],
+    "actividad": "actividad grupo 3 ",
+    "url": "https://github.com/Jaime-Poveda2007/Trabajo-equipo-de-3-moviles"
   }
 ]
