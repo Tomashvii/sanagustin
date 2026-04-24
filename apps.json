@@ -699,5 +699,18 @@
     ],
     "actividad": "actividad grupo 3 ",
     "url": "https://github.com/Jaime-Poveda2007/Trabajo-equipo-de-3-moviles"
+  },
+  {
+    "nombreapp": "picsumgalley",
+    "descripcion": "app de galeria de fotos de autor",
+    "icono": "x",
+    "grupo": "viernes",
+    "fecha": "2026-24-04",
+    "id": 1,
+    "integrantes": [
+      "tomas ortiz"
+    ],
+    "actividad": "app individual ",
+    "url": "https://github.com/Tomashvii/Actividad-individual"
   }
 ]
